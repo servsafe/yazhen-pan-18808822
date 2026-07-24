@@ -1,1 +1,1 @@
-TEST
+permalink: /index.html
